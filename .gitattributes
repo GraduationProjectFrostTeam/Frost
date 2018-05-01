@@ -1,0 +1,2 @@
+Content/UltraDynamicSky/Textures filter=lfs diff=lfs merge=lfs -text
+Content/Levels/textures filter=lfs diff=lfs merge=lfs -text
