@@ -12,7 +12,7 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/StarterContent
-Content/LandscapeAutoMaterial
+Content/LandscapeAutoMaterial/Maps
 Content/land
 Content/SpaceBox_Dim
 Content/UltraDynamicSky/Maps
